@@ -1,5 +1,6 @@
-// Task 1
-/*var user = {
+////////////////////////// Task 1
+
+var user = {
 	"name": "John",
 	"surname": "Smith"
 };
@@ -7,12 +8,14 @@
 user.name = "Pete";
 delete user.name;
 
-// Task 2
+///////////////////////// Task 2
+
 function isEmpty(arg){
       return JSON.stringify(arg) === JSON.stringify({});
 }
 
-// Task 3
+///////////////////////// Task 3
+
 const user2 = {
   "name": "John"
 };
@@ -21,7 +24,8 @@ user2.name = "Pete";
 // Yep!
 console.log(user2.name);
 
-// Task 4
+////////////////////////// Task 4
+
 let salaries = {
   John: 100,
   Ann: 160,
@@ -29,8 +33,9 @@ let salaries = {
 }
 var sum = salaries.John + salaries.Ann + salaries.Pete;
 console.log(sum);
-*/
-// Task 5
+
+////////////////////////// Task 5
+
 var menu = {
   "width": 200,
   "height": 300,
@@ -46,4 +51,3 @@ function multiplyNumeric(obj) {
     }
 
 multiplyNumeric(menu);
-console.log(menu);
