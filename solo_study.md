@@ -18,13 +18,13 @@ Your objectives for the day is to achieve:
 
 ### Plan
 
-- [ ] Signup for [Udacity Javascript Basics][udacity]
-- [ ] Complete [Getting up and running & Problem Set 0][udacity]
-- [ ] Complete [Data Types and Problem Set 1][udacity]
-- [ ] Complete [Flow Control and Problem Set 2][udacity]
-- [ ] Complete [Quiz: Relationships][udacity]
-- [ ] Complete [Quiz: Astronaut Arrays][udacity]
-- [ ] Complete [Quiz: Pagespeed Insights][udacity]
+- [x] Signup for [Udacity Javascript Basics][udacity]
+- [x] Complete [Getting up and running & Problem Set 0][udacity]
+- [x] Complete [Data Types and Problem Set 1][udacity]
+- [x] Complete [Flow Control and Problem Set 2][udacity]
+- [x] Complete [Quiz: Relationships][udacity]
+- [x] Complete [Quiz: Astronaut Arrays][udacity]
+- [x] Complete [Quiz: Pagespeed Insights][udacity]
 
 
 ### Stretch
@@ -50,14 +50,14 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
 
 ### Plan
 
-- [ ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
-  - [ ] Link to your solution here (jsbin, gist, or a js file in this repo)
-- [ ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
- - [ ] Link to your solution here
-- [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array)
- - [ ] Link to your solution here
-- [ ] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
-- [ ] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
+- [x] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
+  - [x] Link to your solution [here](https://github.com/enriquexp19/core-vanilla-javascript/blob/master/js-tasks/objects-tasks.js) (jsbin, gist, or a js file in this repo)
+- [x] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
+ - [x] Link to your solution [here](https://github.com/enriquexp19/core-vanilla-javascript/blob/master/js-tasks/arrays-tasks.js)
+- [x] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array)
+ - [x] Link to your solution [here](https://github.com/enriquexp19/core-vanilla-javascript/blob/master/js-tasks/arrays-tasks.js)
+- [x] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
+- [x] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
 
 *These next 3 steps are part of [Front End Masters JS Course](https://frontendmasters.com/courses/js-fundamentals-to-functional/). You might need to watch the videos and part of the course to make it through. Reach out to staff for an invite code if you don't already have an account.*
 
@@ -71,9 +71,9 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
 - Browse in the terminal to the `js-assessment` folder in this repo.
 - Run `npm install` and `npm start`, then goto `http://127.0.0.1:4444/` in your browser.
 - You should see a bunch of failing tests
-- [ ] Update `js-asessment/app/flowControl.js` to make the section's tests pass
-- [ ] Update `js-asessment/app/logicalOperators.js` to make the section's tests pass
-- [ ] Update `js-asessment/app/logicalNumbers.js` to make the section's tests pass
+- [x] Update `js-asessment/app/flowControl.js` to make the section's tests pass
+- [x] Update `js-asessment/app/logicalOperators.js` to make the section's tests pass
+- [x] Update `js-asessment/app/logicalNumbers.js` to make the section's tests pass
 
 
 ### Stretch
@@ -82,28 +82,28 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
 - [ ] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 - [ ] Watch the first 11 [Fundamentals Videos](https://channel9.msdn.com/Series/JavaScript-Fundamentals-Development-for-Absolute-Beginners)
 - [ ] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
-- [ ] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course] (https://teamtreehouse.com/library/objectoriented-javascript)
+- [ ] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course](https://teamtreehouse.com/library/objectoriented-javascript)
 - [ ] Skim this [cheat sheet][cheat]
 
 ## Day 3: Koans and Drills
 
 Let's test our understanding by working on some Koans.
 
-*Note: It's pretty easy to make these test pass. What isn't easy is to make sure you undertand WHY they are passing, and don't move on to the next one until you do*
+*Note: It's pretty easy to make these tests pass. What isn't easy is to make sure you undertand WHY they are passing, and don't move on to the next one until you do*
 
 *Remember: Update this file, and commit your repo, and push to github after every step*
 
 - In your forked repo, find the `javascript-koans` sub directory.
 - Find `KoansRunner.html` and open it in a browser
-- [ ] Edit AboutObjects.js to make all tests pass
-- [ ] Edit AboutFunctions.js to make all tests pass
-- [ ] Edit AboutArrays.js to make all tests pass
-- [ ] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
-- [ ] Write all 10 functions described in [/challenges/10exercises.js](/challenges/10exercises.js)
+- [x] Edit AboutObjects.js to make all tests pass
+- [x] Edit AboutFunctions.js to make all tests pass
+- [x] Edit AboutArrays.js to make all tests pass
+- [x] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
+- [x] Write all 10 functions described in [/challenges/10exercises.js](/challenges/10exercises.js)
 
 Ok, on for some more drills.
 
-- [ ] Sign up for an [edabit](http://edabit.com) account.
+- [x] Sign up for an [edabit](http://edabit.com) account.
 - [ ] Solve all 10 array challenges linked in [/challenges/edabit-arrays.js](/challenges/edabit-arrays.js) and commit your solutions to the file
 
 - Browse in the terminal to the `js-assessment` folder in this repo.
